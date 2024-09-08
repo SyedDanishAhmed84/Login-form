@@ -1,2 +1,2 @@
 # Login-form
-A simple created through HTML and CSS
+A simple Login form created through HTML and CSS
